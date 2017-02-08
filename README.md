@@ -1,3 +1,11 @@
+Note:
+=====
+This repository is now a fork of <https://github.com/TUD-RST/pycartan>. It should be synchronized but please check that repo for recent development progress.
+
+---
+
+---
+
 [![PyPI Package](https://badge.fury.io/py/pycartan.svg)](https://badge.fury.io/py/pycartan)
 [![Build Status](https://travis-ci.org/TUD-RST/pycartan.svg?branch=master)](https://travis-ci.org/TUD-RST/pycartan)
 
